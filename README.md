@@ -1,2 +1,2 @@
-# skylarwei.github.io
-skylarwei的博客
+# hungryandfriends.github.io
+hungryandfriends的博客
