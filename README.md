@@ -1,2 +1,2 @@
-# hungryandfriends.github.io
-hungryandfriends的博客
+# hungryforit.github.io
+hungry的博客
